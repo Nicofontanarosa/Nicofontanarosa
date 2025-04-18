@@ -10,7 +10,7 @@ I'm Nicolò Fontanarosa, a university student ***obsessed with*** programming, n
 
 ***Skills***
 - WireShark
-- Working in progress
+- Working in progress ( with icons )
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nicofontanarosa&show_icons=true&theme=calm"/>
 
