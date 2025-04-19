@@ -37,6 +37,8 @@ I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c
 
   - <img src="https://img.shields.io/badge/-Linux-green?color=%23FCC624&style=flat&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-green?color=%2380B3FF&style=flat&logo=gitforwindows&logoColor=white" />
+
+    <sub></sub>
     
   </td><td valign="top" width="50%">
   
