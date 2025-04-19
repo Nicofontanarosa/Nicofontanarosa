@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" /> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=V%20i%20e%20w%20e%20r%20s&labelColor=%23ffffff&countColor=%23faba42&style=flat&labelStyle=none" />
 
 I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, a university student ***obsessed with*** programming, networks, the internet, and cybersecurity
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="185" align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150" align="right">
 - 🎓 *Computer Science student at the University of Pisa* 
 - 🌐 *Programmer deeply fascinated by computer networks* 
 - 📰 *Admire journalism and documentaries* 
