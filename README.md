@@ -34,6 +34,7 @@ I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c
     <img src="https://img.shields.io/badge/-C-green?color=%23A8B9CC&style=flat&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-green?color=%23CB6D30&style=flat&logo=coffeescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-PHP-green?color=%23777BB4&style=flat&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
 
   - <img src="https://img.shields.io/badge/-Linux-green?color=%23FCC624&style=flat&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-green?color=%2380B3FF&style=flat&logo=gitforwindows&logoColor=white" />
