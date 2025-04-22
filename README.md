@@ -51,6 +51,8 @@ I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c
     <img src="https://img.shields.io/badge/-Python-green?color=%233776AB&style=flat&logo=python&logoColor=white" />
   
   - <img src="https://img.shields.io/badge/-Wireshark-green?color=%231679A7&style=flat&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Postman-green?color=%23FF6C37&style=flat&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tor_project-green?color=%237D4698&style=flat&logo=torproject&logoColor=white" />
   
   </td></tr></table>
 
