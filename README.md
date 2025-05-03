@@ -14,10 +14,11 @@ I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c
 
 - 🎓 *Computer Science student at the University of Pisa* 
 - 📡 *Programmer deeply fascinated by computer networks* 
-- 🛡️ *Shaping skills in cybersecurity and ethical hacking*
 - 📰 *Admire journalism and documentaries* 
 - 🔧 ***No talent, just hard work***
 - 🎯 ***Extremely perfectionist***
+
+<br>
 
 🌐 [My Website](https://github.com/Nicofontanarosa)
 
