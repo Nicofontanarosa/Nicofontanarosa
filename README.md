@@ -12,7 +12,7 @@ I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nicofontanarosa&show_icons=true&theme=calm" align="right" />
 
-- 🎓 *Computer Science student at the University of Pisa* 
+- 🎓 *Cybersecurity student at the University of Pisa* 
 - 📡 *Programmer deeply fascinated by computer networks* 
 - 📰 *Admire journalism and documentaries* 
 - 🔧 ***No talent, just hard work***
