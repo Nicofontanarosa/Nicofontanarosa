@@ -7,10 +7,7 @@
 
 
 
-Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, university student ***obsessed with*** programming, APIs, cloud, AI, networks, the Internet, and cybersecurity <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13">
-I enjoy building things, creating objects by recycling materials, exploring the world, and ***laughing*** at life. I like journalism and documentaries. ***Extremely perfectionist***. I dont like dots
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, university student ***obsessed with*** programming, APIs, cloud, AI, networks, the Internet, and cybersecurity <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13">. I enjoy building things, creating objects by recycling materials, exploring the world, and ***laughing*** at life. I like journalism and documentaries. ***Extremely perfectionist***. I dont like dots at the end
 
 <p align="center">
   
