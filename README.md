@@ -7,25 +7,10 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20"> Hey, you there ...
 
-Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, university student ***obsessed with*** programming, APIs, cloud, AI, networks, the Internet, and cybersecurity. 
+Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, university student ***obsessed with*** programming, APIs, cloud, AI, networks, the Internet, and cybersecurity
+I enjoy building things, creating objects by recycling materials, exploring the world, and ***laughing*** at life. I like journalism and documentaries. ***Extremely perfectionist***. I dont like dots
 
-<br>
-
-I enjoy building things, creating objects by recycling materials, exploring the world, and laughing at life.
-
-<br>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="20" />
-
-- 📰 *Admire journalism and documentaries* 
-- 🎯 ***Extremely perfectionist***
-
-<br>
-
-🌐 [My Website](https://github.com/Nicofontanarosa)
-
-<hr>
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <p align="center">
   
