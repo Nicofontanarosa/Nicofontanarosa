@@ -10,10 +10,7 @@
 I'm Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, a university student ***obsessed with*** programming, networks, the Internet, and cybersecurity 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="20" />
 
-- 🎓 *Cybersecurity student at the University of Pisa* 
-- 📡 *Programmer deeply fascinated by computer networks* 
 - 📰 *Admire journalism and documentaries* 
-- 🔧 ***No talent, just hard work***
 - 🎯 ***Extremely perfectionist***
 
 <br>
