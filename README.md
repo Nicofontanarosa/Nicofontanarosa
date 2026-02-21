@@ -12,12 +12,6 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nicofontanarosa&show_icons=true&theme=calm" align="right" /> -->
 
-- 🎓 *Cybersecurity student at the University of Pisa* 
-- 📡 *Programmer deeply fascinated by computer networks* 
-- 📰 *Admire journalism and documentaries* 
-- 🔧 ***No talent, just hard work***
-- 🎯 ***Extremely perfectionist***
-
 <br>
 
 🌐 [My Website](https://github.com/Nicofontanarosa)
