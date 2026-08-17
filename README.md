@@ -23,4 +23,4 @@ Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb
 - Nature and animal lover
 - Radiohead
 
-🌐 [My Website](https://github.com/Nicofontanarosa)
+🌐 [My Website](https://nicofontanarosa.github.io/website/)
