@@ -5,6 +5,22 @@
   <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
 
-Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity student at Unipi, ***obsessed with*** programming <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="13" />, APIs, cloud, AI, networks, the Internet and every bit online <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13">. I enjoy building physical and digital things, exploring the world, and ***laughing*** at life. I like journalism and documentaries. ***Extremely perfectionistic***. I dont like dots at the end
+Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity Student at Unipi
+
+***Obsessed with*** programming<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="13" />, networks, the Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and power. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
 
 🌐 [My Website](https://github.com/Nicofontanarosa)
+
+*On the path to becoming the best at what I do*
+
+*Deeply fascinated by any craft taken to perfection*
+
+### Interests
+
+- APIs, Cloud, AI and every single bit online
+- Knowledge
+- Cybersecurity: Driven by helping people by stopping attackers
+- Journalism, documentaries,
+- art and space
+- Politics and economics (open-minded and always down to chat)
+- Love spending time with kids and the elderly
