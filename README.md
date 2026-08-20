@@ -23,6 +23,6 @@ Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb
 - Nature and animal lover
 - Radiohead
 
-🌐 [My Website](https://nicofontanarosa.github.io/website/)
+🌐 [My Website](https://nicofontanarosa.github.io/website/) ( Work in progress )
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Nicofontanarosa)
