@@ -19,6 +19,8 @@ B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachmen
 - Nature and animal lover
 - Radiohead
 
+---
+
 <p>Want to know more about me?</p>
 
 <a href="https://nicofontanarosa.github.io/website/"><img src="https://img.shields.io/badge/HERE%20MY%20WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Here My Website"></a>
