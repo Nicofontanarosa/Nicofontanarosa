@@ -24,7 +24,7 @@ B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachmen
 <p>Want to know more about me?</p>
 
 <a href="https://nicofontanarosa.github.io/website/">
-    <img src="https://img.shields.io/badge/HERE%20MY%20WEBSITE-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Here My Website">
+  <img src="https://img.shields.io/badge/HERE_MY_WEBSITE-black?style=for-the-badge&logo=globe&logoColor=white" alt="Here My Website">
 </a>
 
 <p>If you'd like to support my work and see more projects like this:</p>
