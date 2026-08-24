@@ -80,7 +80,3 @@ Check out my repos ⬇️
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.terkel.com?section=fallback&theme=dark">
   <img src="https://readme.terkel.com?section=fallback&theme=light" alt="" width="420" align="left">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.terkel.com?section=main&theme=dark">
-  <img src="https://readme.terkel.com?section=main&theme=light" alt="I'm Terkel. A Brooklyn-based internet enthusiast, creative technologist and maker of digital ephemera." width="100%" height="290" align="left">
-</picture>
