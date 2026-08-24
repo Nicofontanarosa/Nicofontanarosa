@@ -11,10 +11,10 @@
   <a href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
   <a href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
-</p>
+
 
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
-
+</p>
 
 <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity Student at Unipi, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
 
