@@ -5,12 +5,12 @@
   <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
 
-<p align="right">
-  <a href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
-  <a href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
+<p>
+  <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
+  <a align="right" href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
+  <a align="right" href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a align="right" href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
+  <a align="right" href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
 
 
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
