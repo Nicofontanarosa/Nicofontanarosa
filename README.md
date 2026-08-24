@@ -11,7 +11,7 @@ Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb
 
 ***Deeply fascinated by any craft taken to perfection***
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nicofontanarosa)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nicofontanarosa&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ### Interests
 
