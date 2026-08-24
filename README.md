@@ -1,13 +1,11 @@
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚 
-B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
+B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and programming. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. ***Deeply fascinated by any craft taken to perfection***. I don't like dots at the end
 
-<br><br>
+<br>
 
 ***𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋***
 
 <br>
-
-***Deeply fascinated by any craft taken to perfection***
 
 ### Interests
 
