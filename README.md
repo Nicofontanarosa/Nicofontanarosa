@@ -1,4 +1,10 @@
 
+<p>
+  <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
+  <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
+</p>
+
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
 <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity Student at Unipi, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
 
@@ -45,11 +51,7 @@ if you want to know more about me 🌐 [My Website](https://nicofontanarosa.gith
 [![Instagram](https://img.shields.io/badge/Instagram_↗-1f6feb?style=flat-square&logoColor=white)](https://instagram.com/tuo_username)
 </p>
 
-<p>
-  <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
-  <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
-</p>
+
 
 <p align="center"><samp>
 Check out my repos ⬇️  
