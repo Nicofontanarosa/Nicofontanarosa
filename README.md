@@ -53,7 +53,9 @@ Check out my repos ⬇️
 
 <p align="left">
   <strong>Menu</strong><br>
-  <a href="https://tuo-sito.com">Website ↗</a><br>
-  <a href="https://twitter.com/tuo_username">Twitter ↗</a><br>
-  <a href="https://instagram.com/tuo_username">Instagram ↗</a>
+  **Menu**
+
+[![Website](https://img.shields.io/badge/Website_↗-1f6feb?style=flat-square&logoColor=white)](https://tuo-sito.com)  
+[![Twitter](https://img.shields.io/badge/Twitter_↗-1f6feb?style=flat-square&logoColor=white)](https://twitter.com/tuo_username)  
+[![Instagram](https://img.shields.io/badge/Instagram_↗-1f6feb?style=flat-square&logoColor=white)](https://instagram.com/tuo_username)
 </p>
