@@ -1,9 +1,5 @@
 
-<p>
-  <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
-  <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
-</p>
+
 
 > [!note]
 > In the end I don't not care whether you love me or you hate me, just as long as I win
@@ -59,4 +55,10 @@ Check out my repos ⬇️
 [![Website](https://img.shields.io/badge/Website_↗-1f6feb?style=flat-square&logoColor=white)](https://tuo-sito.com)  
 [![Twitter](https://img.shields.io/badge/Twitter_↗-1f6feb?style=flat-square&logoColor=white)](https://twitter.com/tuo_username)  
 [![Instagram](https://img.shields.io/badge/Instagram_↗-1f6feb?style=flat-square&logoColor=white)](https://instagram.com/tuo_username)
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
+  <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
