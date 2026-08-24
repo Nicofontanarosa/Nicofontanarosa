@@ -27,7 +27,7 @@ Want to know more about me? <a align="right" href="https://nicofontanarosa.githu
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Nicofontanarosa)
 
-<a href="TUO_SITO_WEB"><img src="https://img.shields.io/badge/here%20my%20website-000000?style=flat&logo=globe&logoColor=white" alt="Here is my website"></a>
+<a href="TUO_SITO_WEB"><img src="https://img.shields.io/badge/HERE%20MY%20WEBSITE-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Here My Website"></a>
 
 <p>
   <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
