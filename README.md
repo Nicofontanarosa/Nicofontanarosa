@@ -11,6 +11,8 @@ Nicolò Fontanarosa <img src="https://github.com/user-attachments/assets/b8c2ecb
 
 ***Deeply fascinated by any craft taken to perfection***
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nicofontanarosa)](https://github.com/stats-organization/github-stats-extended)
+
 ### Interests
 
 - APIs, Cloud, AI, programming <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="13" /> and every single bit online
