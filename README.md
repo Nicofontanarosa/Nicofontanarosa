@@ -35,9 +35,11 @@ if you want to know more about me 🌐 [My Website](https://nicofontanarosa.gith
 
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+  <a href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/twitterx--v2.png" alt="X"/></a>
+  <a href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/globe--v1.png" alt="Website"/></a>
 </p>
 
 
