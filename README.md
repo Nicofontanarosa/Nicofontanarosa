@@ -76,7 +76,3 @@ Check out my repos ⬇️
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.terkel.com?section=fallback&theme=dark">
-  <img src="https://readme.terkel.com?section=fallback&theme=light" alt="" width="420" align="left">
-</picture>
