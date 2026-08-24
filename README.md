@@ -38,6 +38,8 @@ Want to know more about me? <a align="right" href="https://nicofontanarosa.githu
   <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
 
+---
+
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
