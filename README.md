@@ -23,7 +23,7 @@
 
 Want to know more about me? 🌐 [My Website](https://nicofontanarosa.github.io/website/) ( Work in progress )
 
-If you'd like to support my work and see more projects like this, buy me a coffee: [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Nicofontanarosa)
+If you'd like to support my work and see more projects like this, [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Nicofontanarosa)
 
 <p>
   <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
