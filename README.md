@@ -5,20 +5,15 @@
   <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left" style="border: none;">
-      <h1 style="margin:0;">𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚</h1>
-    </td>
-    <td align="right" style="border: none;">
-      <a href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
-      <a href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
-      <a href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
-      <a href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
-      <a href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <a href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
+  <a href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
+</p>
+
+# 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
 
 
 <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity Student at Unipi, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
