@@ -1,21 +1,4 @@
-
-<p>
-  <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
-  <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
-</p>
-
-<p>
-  <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
-  <a align="right" href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
-  <a align="right" href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a align="right" href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
-  <a align="right" href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
-
-
-# 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
-</p>
-
+# 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚 
 <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity Student at Unipi, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
 
 <br><br>
@@ -42,28 +25,16 @@ if you want to know more about me 🌐 [My Website](https://nicofontanarosa.gith
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Nicofontanarosa)
 
-
-
-<p align="right">
-  <a href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://x.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/twitterx--v2.png" alt="X"/></a>
-  <a href="https://linkedin.com/in/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://mywebsite.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/32/000000/globe--v1.png" alt="Website"/></a>
+<p>
+  <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
+  <a align="right" href="https://x.com/keiyukensei"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
+  <a align="right" href="www.linkedin.com/in/nicolò-fontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a align="right" href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
+  <a align="right" href="https://nicofontanarosa.github.io/website/"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
+  <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
+  <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
-
-
-
-<p align="left">
-  <strong>Menu</strong><br>
-  **Menu**
-
-[![Website](https://img.shields.io/badge/Website_↗-1f6feb?style=flat-square&logoColor=white)](https://tuo-sito.com)  
-[![Twitter](https://img.shields.io/badge/Twitter_↗-1f6feb?style=flat-square&logoColor=white)](https://twitter.com/tuo_username)  
-[![Instagram](https://img.shields.io/badge/Instagram_↗-1f6feb?style=flat-square&logoColor=white)](https://instagram.com/tuo_username)
-</p>
-
-
 
 <p align="center"><samp>
 Check out my repos ⬇️  
