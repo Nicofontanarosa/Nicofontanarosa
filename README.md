@@ -1,5 +1,5 @@
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚 
-<img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, B.Sc. Cybersecurity Student at Unipi, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
+B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachments/assets/b8c2ecb9-4c88-43c1-89b9-afa68d63f261" width="13"/>, ***Obsessed with*** networks, Internet <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="13"> and ***Power***. I enjoy building physical and digital things and laughing at life. ***An extreme perfectionist***. I don't like dots at the end
 
 <br><br>
 
@@ -21,7 +21,7 @@
 - Nature and animal lover
 - Radiohead
 
-Want to know more about me? 🌐 [My Website](https://nicofontanarosa.github.io/website/) ( Work in progress )
+Want to know more about me? <a align="right" href="https://nicofontanarosa.github.io/website/"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
 
 <p>If you'd like to support my work and see more projects like this:</p>
 
