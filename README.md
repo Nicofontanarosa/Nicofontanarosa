@@ -23,7 +23,8 @@
 
 Want to know more about me? 🌐 [My Website](https://nicofontanarosa.github.io/website/) ( Work in progress )
 
-If you'd like to support my work and see more projects like this:
+<p>If you'd like to support my work and see more projects like this:</p>
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Nicofontanarosa)
 
 <p>
