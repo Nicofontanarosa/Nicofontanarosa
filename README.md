@@ -1,11 +1,13 @@
 
 
-
-> [!note]
-> In the end I don't not care whether you love me or you hate me, just as long as I win
->
-> ― ***Frank Underwood***
-
+<p align="center">
+  <samp>
+    > [!note]
+    > In the end I don't not care whether you love me or you hate me, just as long as I win
+    >
+    > ― ***Frank Underwood***
+  </samp>
+</p>
 ---
 
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
@@ -43,10 +45,7 @@ if you want to know more about me 🌐 [My Website](https://nicofontanarosa.gith
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
+
 
 <p align="left">
   <strong>Menu</strong><br>
@@ -61,4 +60,9 @@ Check out my repos ⬇️
   <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNicofontanarosa%2FNicofontanarosa&label=%20Views&labelColor=%23222222&countColor=%23ffffff&style=flat&labelStyle=none" />
   <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
 </p>
