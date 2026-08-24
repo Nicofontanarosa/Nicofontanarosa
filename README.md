@@ -1,13 +1,11 @@
 
 
-<p align="center">
-  <samp>
-    > [!note]
-    > In the end I don't not care whether you love me or you hate me, just as long as I win
-    >
-    > ― ***Frank Underwood***
-  </samp>
-</p>
+
+> [!note]
+> In the end I don't not care whether you love me or you hate me, just as long as I win
+>
+> ― ***Frank Underwood***
+
 ---
 
 # 𝐍𝐢𝐜𝐨𝐥𝐨̀ 𝐅𝐨𝐧𝐭𝐚𝐧𝐚𝐫𝐨𝐬𝐚
