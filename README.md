@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-nickcompany@gmail.com-green?color=%23bb5f37&style=flat&logo=gmail&logoColor=white" />
 </p>
 
-> [!quote]
+> [!note]
 > In the end I don't not care whether you love me or you hate me, just as long as I win
 >
 > ― ***Frank Underwood***
