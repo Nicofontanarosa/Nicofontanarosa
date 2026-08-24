@@ -30,7 +30,7 @@ Want to know more about me? <a align="right" href="https://nicofontanarosa.githu
 <p>
   <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
   <a align="right" href="https://x.com/keiyukensei"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
-  <a align="right" href="www.linkedin.com/in/nicolò-fontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a align="right" href="https://linkedin.com/in/nicol%C3%B2-fontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
   <a align="right" href="https://facebook.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" alt="Facebook"/></a>
   <a align="right" href="https://nicofontanarosa.github.io/website/"><img src="https://img.icons8.com/ios-glyphs/24/000000/globe--v1.png" alt="Website"/></a>
   <img src="https://img.shields.io/github/followers/Nicofontanarosa?style=social" />
