@@ -26,7 +26,7 @@ B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachmen
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Nicofontanarosa)
 
-<p align="center">
+<p>
   <a align="right" href="https://instagram.com/nicofontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/instagram-new.png" alt="Instagram"/></a>
   <a align="right" href="https://x.com/keiyukensei"><img src="https://img.icons8.com/ios-glyphs/24/000000/twitterx--v2.png" alt="X"/></a>
   <a align="right" href="https://linkedin.com/in/nicol%C3%B2-fontanarosa"><img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png" alt="LinkedIn"/></a>
