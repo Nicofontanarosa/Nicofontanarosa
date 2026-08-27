@@ -7,7 +7,7 @@ B.Sc. Cybersecurity Student at Unipi <img src="https://github.com/user-attachmen
 
 ### Interests
 
-- APIs, Cloud, AI, programming <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="13" /> and every single bit online
+- Cybersecurity, Cloud, AI, programming <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="13" /> and every single bit online
 - Continuous learning and pursuit of knowledge
 - Cybersecurity: Driven by helping people by stopping attackers
 - Journalism, documentaries, art and space
